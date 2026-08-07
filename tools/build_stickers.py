@@ -5,24 +5,39 @@ import numpy as np
 from PIL import Image
 from apng import APNG
 
-def remove_white_background(img):
+def remove_background(img, tolerance=(28, 28, 28)):
     """
-    Flood fills the white background from the edges to make it transparent.
-    img is a cv2 BGRA image.
+    Flood fills the background from all outer edge pixels with anti-aliased edge transparency.
+    Supports pure white, tinted cream/peach, or any solid edge background.
     """
     h, w = img.shape[:2]
+    if img.shape[2] == 3:
+        img = cv2.cvtColor(img, cv2.COLOR_BGR2BGRA)
     bgr = img[:, :, :3].copy()
     mask = np.zeros((h+2, w+2), np.uint8)
     
-    tolerance = (20, 20, 20)
-    corners = [(0,0), (w-1,0), (0,h-1), (w-1,h-1), (w//2, 0), (w//2, h-1)]
-    for pt in corners:
-        bg_color = bgr[pt[1], pt[0]]
-        if bg_color[0] > 230 and bg_color[1] > 230 and bg_color[2] > 230:
-            cv2.floodFill(bgr, mask, pt, (255, 0, 255), tolerance, tolerance, cv2.FLOODFILL_FIXED_RANGE)
-            
-    filled_mask = mask[1:-1, 1:-1]
-    img[filled_mask == 1, 3] = 0
+    # Sample all perimeter coordinates
+    perimeter = []
+    for x in range(0, w, 4):
+        perimeter.append((x, 0))
+        perimeter.append((x, h-1))
+    for y in range(0, h, 4):
+        perimeter.append((0, y))
+        perimeter.append((w-1, y))
+        
+    for pt in perimeter:
+        if mask[pt[1]+1, pt[0]+1] == 0:
+            bg_color = bgr[pt[1], pt[0]]
+            # background is bright
+            if int(bg_color[0]) + int(bg_color[1]) + int(bg_color[2]) > 300:
+                cv2.floodFill(bgr, mask, pt, (0, 255, 0), tolerance, tolerance, cv2.FLOODFILL_FIXED_RANGE)
+                
+    bg_mask = mask[1:-1, 1:-1]
+    fg_mask = (bg_mask == 0).astype(np.uint8) * 255
+    
+    # Soft anti-aliased edge on the alpha channel
+    alpha = cv2.GaussianBlur(fg_mask, (3, 3), 0)
+    img[:, :, 3] = alpha
     return img
 
 def process_single_image(input_path, output_path, total_frames=5, duration_ms=200):
@@ -36,11 +51,8 @@ def process_single_image(input_path, output_path, total_frames=5, duration_ms=20
         if np.any(img[:, :, 3] < 255):
             has_alpha = True
 
-    if img.shape[2] == 3:
-        img = cv2.cvtColor(img, cv2.COLOR_BGR2BGRA)
-        
     if not has_alpha:
-        img = remove_white_background(img)
+        img = remove_background(img)
     
     # Find bounding box of content
     alpha = img[:, :, 3]
