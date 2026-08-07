@@ -1,0 +1,66 @@
+{
+  "prompts_flat\\scene_01.txt": {
+    "text": "Hello",
+    "staging": "small hop with a greeting paw-up gesture"
+  },
+  "prompts_flat\\scene_02.txt": {
+    "text": "Bye~",
+    "staging": "walk two steps then look back to say bye"
+  },
+  "prompts_flat\\scene_03.txt": {
+    "text": "早安",
+    "staging": "sit with a warm drink and nod hello"
+  },
+  "prompts_flat\\scene_04.txt": {
+    "text": "晚安",
+    "staging": "curl under a tiny blanket and yawn"
+  },
+  "prompts_flat\\scene_05.txt": {
+    "text": "不錯喔",
+    "staging": "clap with both paws in approval"
+  },
+  "prompts_flat\\scene_06.txt": {
+    "text": "帥喔",
+    "staging": "thumbs-up with chin raised"
+  },
+  "prompts_flat\\scene_07.txt": {
+    "text": "沒問題",
+    "staging": "sit and nod to signal confidence"
+  },
+  "prompts_flat\\scene_08.txt": {
+    "text": "Ok~",
+    "staging": "forward confirm gesture meaning yes"
+  },
+  "prompts_flat\\scene_09.txt": {
+    "text": "收到",
+    "staging": "straight salute with slight lean"
+  },
+  "prompts_flat\\scene_10.txt": {
+    "text": "好的",
+    "staging": "double nod with paw on chest"
+  },
+  "prompts_flat\\scene_11.txt": {
+    "text": "太棒了",
+    "staging": "rapid paw taps and mini jumps"
+  },
+  "prompts_flat\\scene_12.txt": {
+    "text": "謝謝",
+    "staging": "small bow with paws together at chest"
+  },
+  "prompts_flat\\scene_13.txt": {
+    "text": "感動捏",
+    "staging": "hug chest with slightly tucked shoulders"
+  },
+  "prompts_flat\\scene_14.txt": {
+    "text": "有你真好",
+    "staging": "paw near cheek in a sweet thankful pose"
+  },
+  "prompts_flat\\scene_15.txt": {
+    "text": "嗚嗚嗚",
+    "staging": "lie down and sob loudly"
+  },
+  "prompts_flat\\scene_16.txt": {
+    "text": "辛苦惹",
+    "staging": "sit beside quietly in support"
+  }
+}

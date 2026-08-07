@@ -1,0 +1,60 @@
+[CHARACTER DNA]
+- Gavin Duo Cats, cat_duo.
+
+[REFERENCE LOCK]
+- Reference identity policy: preserve visible identity from locked references; do not infer appearance from text-only traits.
+- Keep visible identity consistent with the locked references; do not invent, swap, or copy appearance features across characters.
+- Use locked references in this priority: head -> master -> model sheet.
+- Reference set: head.png | master.png | model_sheet.png.
+- Subject role lock: keep each subject in its assigned position and identity.
+- LEFT = Black Cat; identity comes from locked references, not text description.
+- RIGHT = Color Cat; identity comes from locked references, not text description.
+- Relative scale lock: Black Cat and Color Cat should appear the same overall body size (1:1) unless scene depth explicitly changes apparent size.
+- Relative scale map: left=Black Cat:1x, right=Color Cat:1x.
+
+[STYLE LOCK]
+- Warm storybook-like sticker style with soft emotion, simple forms, and friendly readability.
+- premium 2D LINE sticker duo style, clean outline, readable two-cat interaction.
+- Style profile: line_clean_default (LINE Clean Illustration)
+- Style direction: clean silhouette; simple shading; centered composition.
+- Avoid: style drift into photorealistic texture, 3d render look.
+- both Black Cat and Color Cat must appear in every sticker
+- Black Cat stays on viewer-left; Color Cat stays on viewer-right
+- do not merge the cats
+- keep cat-specific ears, tails, paws, whiskers, and body language readable at LINE sticker size
+- keep the image warm and gentle
+- do not sacrifice sticker readability for atmosphere
+- Style scope: apply the style to rendering technique only - line weight, shading, palette, texture; body structure, facial landmarks, ear/tail shape, fur markings, and accessories must match the locked references exactly.
+- This sticker is one of a matched set; keep identical line weight, palette, and proportions across the set.
+- Tone policy: goofy lovable vibe; easy-to-read comedic presence; warm inviting visual tone
+- Framing policy: default half-body composition (head and upper torso focus). Do not force full-body unless explicitly requested by product-level override.
+- Expression policy: expressions may be exaggerated for humor; face structure must still stay stable
+- Avoid: avoid mature realistic dramatic acting, avoid muddy detail, avoid realism-heavy painterly textures.
+- Text tone: allow playful funny wording; text should still stay short and easy to read.
+
+[SCENE]
+- Scene ID: scene_01
+- Sticker text: Hello
+- Visible text rule: render only this text: "Hello" - no other words, labels, watermarks, or role markers anywhere.
+- Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
+- Staging: small hop with a greeting paw-up gesture
+- Expression: happy greeting smile
+- Mood: cute hello vibe
+- Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
+- Multi-character project lock: every sticker in this project must show all listed characters together.
+- All-character presence required in this scene: left=Black Cat, right=Color Cat.
+- Do not omit, merge, swap, or replace any listed character; keep each assigned role identity distinct.
+- Interaction-first scene rule: stage this as ONE shared story beat with a clear initiator and a clear responder, not two solo poses placed side by side.
+- Both Black Cat and Color Cat must communicate the sticker's message: the initiator performs the main action, the responder amplifies the same emotion with a different, complementary reaction.
+- Connect the subjects: eye contact, touching, leaning, a shared prop, or shared timing toward a single focal point.
+- Closeness rule: keep the characters physically close and warmly familiar - overlapping or touching silhouettes with little or no gap between them (within about one body-width); never push them to opposite edges with empty space in the middle.
+- Anti-mirror rule: never give both characters the same body pose; if one waves, the other reacts (catches, laughs, hugs, startles) instead of waving too.
+- Anatomy adaptation rule: adapt each role's acting to its body type; pets act with paws/nose/tail/ears/body direction, people act with hands/arms/posture/face.
+- LEFT = Black Cat is a animal and acts with paws, nose, tail, ears, and body direction; stays a four-legged animal with no human hands, no fingers, and no upright human posture.
+- RIGHT = Color Cat is a animal and acts with paws, nose, tail, ears, and body direction; stays a four-legged animal with no human hands, no fingers, and no upright human posture.
+- Scene execution: convert Pose/Expression/Mood into clearly visible acting; do not ignore these cues.
+- Variation guard: avoid repeating a neutral default stance from other scenes.
+
+[DECORATION]
+- Decoration cue: bright motion lines
+- Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.
