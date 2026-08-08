@@ -1,4 +1,4 @@
-﻿[CHARACTER DNA]
+[CHARACTER DNA]
 - Gavin Duo Cats, cat_duo.
 
 [REFERENCE LOCK]
@@ -37,8 +37,8 @@
 
 [SCENE]
 - Scene ID: scene_11
-- Sticker text: 還有幾小時下班
-- Visible text rule: render only this text: "還有幾小時下班" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 快下班惹
+- Visible text rule: render only this text: "快下班惹" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
 - Staging: both cats stare intensely at a giant wall clock with laser focus, one tapping its paw impatiently, the other squinting at the hour hand as if trying to move it by willpower
 - Expression: intense concentrated stare-down at the clock with restrained impatient hope

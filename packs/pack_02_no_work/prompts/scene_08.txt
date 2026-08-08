@@ -1,4 +1,4 @@
-﻿[CHARACTER DNA]
+[CHARACTER DNA]
 - Gavin Duo Cats, cat_duo.
 
 [REFERENCE LOCK]
@@ -37,8 +37,8 @@
 
 [SCENE]
 - Scene ID: scene_08
-- Sticker text: 薪水低
-- Visible text rule: render only this text: "薪水低" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 沒有錢
+- Visible text rule: render only this text: "沒有錢" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
 - Staging: both cats look inside an empty wallet together with mouths hanging open in disbelief
 - Expression: jaw-dropped shock with wide teary eyes, ears pinned back in dismay

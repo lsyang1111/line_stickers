@@ -1,4 +1,4 @@
-﻿[CHARACTER DNA]
+[CHARACTER DNA]
 - Gavin Duo Cats, cat_duo.
 
 [REFERENCE LOCK]
@@ -37,8 +37,8 @@
 
 [SCENE]
 - Scene ID: scene_06
-- Sticker text: 快到假日了
-- Visible text rule: render only this text: "快到假日了" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 快放假惹
+- Visible text rule: render only this text: "快放假惹" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
 - Staging: both cats stare longingly at a calendar or countdown, tails wagging with restrained excitement
 - Expression: hopeful glimmering eyes and a tiny suppressed smile of anticipation
