@@ -34,12 +34,12 @@
 
 [SCENE]
 - Scene ID: scene_02
-- Sticker text: Bye~
-- Visible text rule: render only this text: "Bye~" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 早安
+- Visible text rule: render only this text: "早安" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: walk two steps then look back to say bye
-- Expression: easygoing bye smile
-- Mood: light exit vibe
+- Staging: sit with a warm drink and nod hello
+- Expression: warm morning smile
+- Mood: fresh wake-up vibe
 - Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
 - Multi-character project lock: every sticker in this project must show all listed characters together.
 - All-character presence required in this scene: left=Black Cat, right=Color Cat.
@@ -56,5 +56,5 @@
 - Variation guard: avoid repeating a neutral default stance from other scenes.
 
 [DECORATION]
-- Decoration cue: small wave sparkles
+- Decoration cue: morning glints
 - Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.

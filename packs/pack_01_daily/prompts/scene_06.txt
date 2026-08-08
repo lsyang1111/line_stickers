@@ -34,12 +34,12 @@
 
 [SCENE]
 - Scene ID: scene_06
-- Sticker text: 帥喔
-- Visible text rule: render only this text: "帥喔" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: Ok~
+- Visible text rule: render only this text: "Ok~" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: thumbs-up with chin raised
-- Expression: admiring grin
-- Mood: strong admiration
+- Staging: forward confirm gesture meaning yes
+- Expression: OK confirmation smile
+- Mood: immediate agreement
 - Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
 - Multi-character project lock: every sticker in this project must show all listed characters together.
 - All-character presence required in this scene: left=Black Cat, right=Color Cat.
@@ -56,5 +56,5 @@
 - Variation guard: avoid repeating a neutral default stance from other scenes.
 
 [DECORATION]
-- Decoration cue: admiration sparkles
+- Decoration cue: small check
 - Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.

@@ -32,15 +32,17 @@
 - Avoid: avoid mature realistic dramatic acting, avoid muddy detail, avoid realism-heavy painterly textures.
 - Text tone: allow playful funny wording; text should still stay short and easy to read.
 - LINE sticker format: generate on pure white (RGB 255,255,255) background only; no colored, gradient, or textured background. White will be flood-fill removed for transparency in post-processing.
+- Sticker die-cut outline: include a thin, clean white die-cut outer border/glow around the entire cat silhouette and text so it stands out crisply on dark LINE chat backgrounds.
+- Art style: cute semi-realistic duo cats (soft fur texture, realistic facial features, expressive eyes, warm 2D/semi-realistic lighting).
 
 [SCENE]
 - Scene ID: scene_07
-- Sticker text: 好累喔
-- Visible text rule: render only this text: "好累喔" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 加班中...
+- Visible text rule: render only this text: "加班中..." - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: both cats slumped together with heads drooping and heavy eyelids, leaning on each other for support
-- Expression: wilted droopy eyes, exhausted slack mouth, zero energy remaining
-- Mood: drained to the bone, shared exhaustion solidarity
+- Staging: both cats hunched tiredly in dim late-night light with dark circles under their eyes, one propping its chin on its paw while the other barely keeps eyes open
+- Expression: bleary exhausted eyes, dark under-eye circles, defeated sag
+- Mood: trapped in overtime, deeply done with today
 - Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
 - Multi-character project lock: every sticker in this project must show all listed characters together.
 - All-character presence required in this scene: left=Black Cat, right=Color Cat.
@@ -57,6 +59,6 @@
 - Variation guard: avoid repeating a neutral default stance from other scenes.
 
 [DECORATION]
-- Decoration cue: wilting flowers and swirling fatigue aura
+- Decoration cue: crescent moon with dim night glow and a small steaming coffee cup
 - Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.
 

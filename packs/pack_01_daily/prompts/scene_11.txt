@@ -34,12 +34,12 @@
 
 [SCENE]
 - Scene ID: scene_11
-- Sticker text: 太棒了
-- Visible text rule: render only this text: "太棒了" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 嗚嗚嗚
+- Visible text rule: render only this text: "嗚嗚嗚" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: rapid paw taps and mini jumps
-- Expression: super hyped open-mouthed cheer
-- Mood: joy burst
+- Staging: lie down and sob loudly
+- Expression: loud crying face
+- Mood: hurt and teary
 - Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
 - Multi-character project lock: every sticker in this project must show all listed characters together.
 - All-character presence required in this scene: left=Black Cat, right=Color Cat.
@@ -56,5 +56,5 @@
 - Variation guard: avoid repeating a neutral default stance from other scenes.
 
 [DECORATION]
-- Decoration cue: cheer glitter
+- Decoration cue: rain streaks
 - Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.

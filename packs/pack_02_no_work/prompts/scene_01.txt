@@ -32,6 +32,8 @@
 - Avoid: avoid mature realistic dramatic acting, avoid muddy detail, avoid realism-heavy painterly textures.
 - Text tone: allow playful funny wording; text should still stay short and easy to read.
 - LINE sticker format: generate on pure white (RGB 255,255,255) background only; no colored, gradient, or textured background. White will be flood-fill removed for transparency in post-processing.
+- Sticker die-cut outline: include a thin, clean white die-cut outer border/glow around the entire cat silhouette and text so it stands out crisply on dark LINE chat backgrounds.
+- Art style: cute semi-realistic duo cats (soft fur texture, realistic facial features, expressive eyes, warm 2D/semi-realistic lighting).
 
 [SCENE]
 - Scene ID: scene_01

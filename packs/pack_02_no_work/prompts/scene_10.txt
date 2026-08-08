@@ -32,15 +32,17 @@
 - Avoid: avoid mature realistic dramatic acting, avoid muddy detail, avoid realism-heavy painterly textures.
 - Text tone: allow playful funny wording; text should still stay short and easy to read.
 - LINE sticker format: generate on pure white (RGB 255,255,255) background only; no colored, gradient, or textured background. White will be flood-fill removed for transparency in post-processing.
+- Sticker die-cut outline: include a thin, clean white die-cut outer border/glow around the entire cat silhouette and text so it stands out crisply on dark LINE chat backgrounds.
+- Art style: cute semi-realistic duo cats (soft fur texture, realistic facial features, expressive eyes, warm 2D/semi-realistic lighting).
 
 [SCENE]
 - Scene ID: scene_10
-- Sticker text: 會議又開不完
-- Visible text rule: render only this text: "會議又開不完" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 股票又下跌了
+- Visible text rule: render only this text: "股票又下跌了" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: one cat slumps dramatically mid-meeting with glazed-over eyes while the other pokes it to stay awake
-- Expression: one with total vacant thousand-yard stare, the other with a worried side-eye poke
-- Mood: trapped in an infinite meeting loop, spiritually departed
+- Staging: one cat watches a graph arrow plunge downward while the other pats its back in gentle commiseration
+- Expression: one staring at disaster with numb empty eyes, the other with an understanding sympathy grimace
+- Mood: performance review grief, solidarity in failure
 - Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
 - Multi-character project lock: every sticker in this project must show all listed characters together.
 - All-character presence required in this scene: left=Black Cat, right=Color Cat.
@@ -57,6 +59,6 @@
 - Variation guard: avoid repeating a neutral default stance from other scenes.
 
 [DECORATION]
-- Decoration cue: looping circular arrows indicating never-ending cycle
+- Decoration cue: a tiny descending chart arrow with a sad downward trend line
 - Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.
 

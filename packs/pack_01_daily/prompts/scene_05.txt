@@ -34,12 +34,12 @@
 
 [SCENE]
 - Scene ID: scene_05
-- Sticker text: 不錯喔
-- Visible text rule: render only this text: "不錯喔" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 沒問題
+- Visible text rule: render only this text: "沒問題" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: clap with both paws in approval
-- Expression: impressed smile eyes
-- Mood: genuine admiration
+- Staging: sit and nod to signal confidence
+- Expression: reliable smile
+- Mood: you can trust me
 - Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
 - Multi-character project lock: every sticker in this project must show all listed characters together.
 - All-character presence required in this scene: left=Black Cat, right=Color Cat.
@@ -56,5 +56,5 @@
 - Variation guard: avoid repeating a neutral default stance from other scenes.
 
 [DECORATION]
-- Decoration cue: approval glow
+- Decoration cue: reliable badge
 - Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.

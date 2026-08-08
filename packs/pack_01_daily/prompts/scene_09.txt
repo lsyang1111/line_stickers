@@ -34,12 +34,12 @@
 
 [SCENE]
 - Scene ID: scene_09
-- Sticker text: 收到
-- Visible text rule: render only this text: "收到" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 感動捏
+- Visible text rule: render only this text: "感動捏" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: straight salute with slight lean
-- Expression: focused serious look
-- Mood: instruction received
+- Staging: hug chest with slightly tucked shoulders
+- Expression: teary smile
+- Mood: deeply moved
 - Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
 - Multi-character project lock: every sticker in this project must show all listed characters together.
 - All-character presence required in this scene: left=Black Cat, right=Color Cat.
@@ -56,5 +56,5 @@
 - Variation guard: avoid repeating a neutral default stance from other scenes.
 
 [DECORATION]
-- Decoration cue: signal ripples
+- Decoration cue: teary glints
 - Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.

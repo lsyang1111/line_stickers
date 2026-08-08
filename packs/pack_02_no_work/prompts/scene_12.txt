@@ -32,15 +32,17 @@
 - Avoid: avoid mature realistic dramatic acting, avoid muddy detail, avoid realism-heavy painterly textures.
 - Text tone: allow playful funny wording; text should still stay short and easy to read.
 - LINE sticker format: generate on pure white (RGB 255,255,255) background only; no colored, gradient, or textured background. White will be flood-fill removed for transparency in post-processing.
+- Sticker die-cut outline: include a thin, clean white die-cut outer border/glow around the entire cat silhouette and text so it stands out crisply on dark LINE chat backgrounds.
+- Art style: cute semi-realistic duo cats (soft fur texture, realistic facial features, expressive eyes, warm 2D/semi-realistic lighting).
 
 [SCENE]
 - Scene ID: scene_12
-- Sticker text: 辭職好想辭
-- Visible text rule: render only this text: "辭職好想辭" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 撐住！
+- Visible text rule: render only this text: "撐住！" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: one cat dramatically imagines floating away on a cloud with dreamy heart eyes while the other watches it snap back to reality with a thud
-- Expression: one with blissful dreamy escape face, other with exasperated eyeroll and amused sympathy
-- Mood: quitting fantasy vs. sad reality check
+- Staging: one cat grabs the other firmly by the scruff with determined focus, locking eyes with fierce warm encouragement as the other looks on the verge of collapse
+- Expression: one with fierce loving determination, the other with wavering tear-edged gratitude
+- Mood: mutual survival, we are in this together no matter what
 - Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
 - Multi-character project lock: every sticker in this project must show all listed characters together.
 - All-character presence required in this scene: left=Black Cat, right=Color Cat.
@@ -57,6 +59,6 @@
 - Variation guard: avoid repeating a neutral default stance from other scenes.
 
 [DECORATION]
-- Decoration cue: dreamy cloud and tiny fantasy sparkles above one cat's head
+- Decoration cue: warm strong glow aura and small fist-bump energy sparks
 - Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.
 

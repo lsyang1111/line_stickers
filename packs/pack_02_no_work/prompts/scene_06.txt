@@ -32,15 +32,17 @@
 - Avoid: avoid mature realistic dramatic acting, avoid muddy detail, avoid realism-heavy painterly textures.
 - Text tone: allow playful funny wording; text should still stay short and easy to read.
 - LINE sticker format: generate on pure white (RGB 255,255,255) background only; no colored, gradient, or textured background. White will be flood-fill removed for transparency in post-processing.
+- Sticker die-cut outline: include a thin, clean white die-cut outer border/glow around the entire cat silhouette and text so it stands out crisply on dark LINE chat backgrounds.
+- Art style: cute semi-realistic duo cats (soft fur texture, realistic facial features, expressive eyes, warm 2D/semi-realistic lighting).
 
 [SCENE]
 - Scene ID: scene_06
-- Sticker text: 請假！
-- Visible text rule: render only this text: "請假！" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 快到假日了
+- Visible text rule: render only this text: "快到假日了" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: one cat raises a paw triumphantly while the other high-fives it in instant agreement, both beaming
-- Expression: wide triumphant grins with bright sparkling eyes
-- Mood: victorious freedom, the day-off is happening
+- Staging: both cats stare longingly at a calendar or countdown, tails wagging with restrained excitement
+- Expression: hopeful glimmering eyes and a tiny suppressed smile of anticipation
+- Mood: the weekend is almost here, holding it together
 - Precedence: the scene's Mood and Expression define WHAT emotion to show; the tone policy defines HOW it is delivered. When they conflict, the scene wins.
 - Multi-character project lock: every sticker in this project must show all listed characters together.
 - All-character presence required in this scene: left=Black Cat, right=Color Cat.
@@ -57,6 +59,6 @@
 - Variation guard: avoid repeating a neutral default stance from other scenes.
 
 [DECORATION]
-- Decoration cue: star burst and sparkle fireworks around the paw-raise
+- Decoration cue: calendar with weekend days circled and twinkling star
 - Decoration execution: keep decoration clearly visible as a secondary cue; do not omit it.
 

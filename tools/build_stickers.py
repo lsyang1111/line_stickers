@@ -109,7 +109,9 @@ def process_single_image(input_path, output_path, total_frames=5, duration_ms=20
     temp_files = []
     for i, frame in enumerate(processed_frames):
         tmp_name = f"temp_frame_{i}.png"
-        frame.save(tmp_name, "PNG")
+        # Quantize to keep APNG <= 300KB limit for LINE store guidelines
+        q_frame = frame.quantize(colors=128, method=Image.Quantize.FASTOCTREE)
+        q_frame.save(tmp_name, "PNG", optimize=True)
         temp_files.append(tmp_name)
         
     total_time = duration_ms * total_frames
@@ -126,7 +128,7 @@ def process_single_image(input_path, output_path, total_frames=5, duration_ms=20
         if os.path.exists(tmp_name):
             os.remove(tmp_name)
             
-    print(f"Generated {output_path} with {len(processed_frames)} frames (canvas: {canvas_w}x{canvas_h}).")
+    print(f"Generated {output_path} with {len(processed_frames)} frames (canvas: {canvas_w}x{canvas_h}, size: {os.path.getsize(output_path)/1024:.1f} KB).")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Build animated LINE APNG from Single Image")
