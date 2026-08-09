@@ -37,8 +37,8 @@
 
 [SCENE]
 - Scene ID: scene_09
-- Sticker text: 在家耍廢
-- Visible text rule: render only this text: "在家耍廢" - no other words, labels, watermarks, or role markers anywhere.
+- Sticker text: 在家工作最爽惹
+- Visible text rule: render only this text: "在家工作最爽惹" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
 - Staging: both cats lounge comfortably in pajamas side by side, one with paws on a small laptop and the other holding a snack, both relaxed and smug
 - Expression: deeply content smug smile, half-lid eyes of pure satisfaction
