@@ -40,9 +40,9 @@
 - Sticker text: 漲停板！！
 - Visible text rule: render only this text: "漲停板！！" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: both cats wearing sunglasses and fancy gold chains, dancing in absolute wealth and jubilation as a stock chart arrow shoots straight into the sky in VIBRANT RED (Taiwan stock market limit-up / surge standard: Red = Rising/Gains)
-- Expression: smug rich-cat grins, sparkling dollar-sign eyes, ecstatic wealthy swagger
-- Mood: limit-up euphoria, to the moon, rich cat dreams come true!
+- Staging: both cats dancing joyfully side by side, standing on hind legs doing a funny victory dance and waving their front paws in the air in pure celebration of the limit-up surge, next to a giant steep upward stock chart arrow in VIBRANT RED (Taiwan stock market limit-up / surge standard: Red = Rising/Gains)
+- Expression: huge ecstatic open-mouth grins, eyes sparkling with natural joy, funny victory dancing swagger
+- Mood: limit-up euphoria, pure dancing happiness, rich cat dreams come true!
 
 [DECORATION]
-- Decoration cue: a giant steep upward VIBRANT RED chart arrow (台股紅漲), golden coin rain, and dazzling sparkle fireworks
+- Decoration cue: a giant steep upward VIBRANT RED chart arrow (台股紅漲), golden coin rain, and dazzling sparkle confetti

@@ -40,9 +40,9 @@
 - Sticker text: 住套房惹
 - Visible text rule: render only this text: "住套房惹" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: both cats sit trapped together inside a tiny cartoon birdcage / miniature jail suite marked "高檔套房", hugging their knees in cold isolation, shivering while clutching their stock trading phone
-- Expression: frozen numb smiles of helplessness, blank teary eyes staring into the distance, bitter self-mockery
-- Mood: bought at the peak and stuck forever (套牢住套房), deeply tragicomic
+- Staging: both cats sit huddled pathetically inside a tiny cartoon birdcage / miniature suite labeled "高檔套房", clutching their stock trading phone, crying streams of comical big tears streaming down their cheeks in pitiful regret
+- Expression: extremely pitiful, tearful weeping eyes, trembling sad mouths, comical heart-wrenching regret of buying at the peak
+- Mood: deeply tragicomic, pitiful trapped investor weeping in regret (套牢大哭)
 
 [DECORATION]
-- Decoration cue: cartoon cage bars, cold winter wind breeze lines, and a tiny falling green leaf
+- Decoration cue: cartoon cage bars, streaming blue cartoon tears, cold wind breeze lines, and a tiny falling green leaf
