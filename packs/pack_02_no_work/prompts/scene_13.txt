@@ -41,7 +41,7 @@
 - Visible text rule: render only this text: "歐印啦！！" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
 - Staging: both cats slam all their casino chips, coins, and piggy banks onto the table with wild gambling excitement, one slapping down a buy order on a laptop with intense manic focus (全部歐印 All In)
-- Expression: sparkling golden dollar-sign ($) eyes with greedy excited smiles, crazed confident smirks, pumped-up full-power adrenaline (clean facial anatomy, no fire on eyebrows)
+- Expression: natural realistic cat eyes matching reference (Left: light green eyes, Right: light yellow eyes) wide open with excited determination, crazed confident smirks, pumped-up full-power adrenaline (natural cat facial features, no symbols in eyes, no fire on eyebrows)
 - Mood: ultimate reckless investor confidence, All-in or nothing!
 
 [DECORATION]
