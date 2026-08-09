@@ -40,10 +40,10 @@
 - Sticker text: 不想上班
 - Visible text rule: render only this text: "不想上班" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: both cats have completely "melted" into flat liquid puddles like melted ice cream / boneless liquid cats on a table edge (化身成一灘貓液體 / 融化在桌上), their heads and front paws droop limply over the table ledge dripping down with zero bone structure left, utterly refusing to stand up for work
-- Expression: comical defeated liquid face, droopy half-shut eyes, slack jaw puddling on the surface, completely drained of all energy
-- Mood: "cats are liquid", drained to the absolute boneless puddle state, total refusal to work
+- Staging: both cats are tightly swaddled and rolled together in a thick cozy warm duvet blanket like a "cat sushi roll / cat burrito" (被被封印 / 捲成貓壽司), with only their two cute round heads poking out from the top of the blanket roll side by side, completely sealed inside their warm cocoon refusing to leave bed for work
+- Expression: stubborn, resolute, deadpan lazy eyes staring directly forward with a comical "I am sealed in this blanket cocoon and never leaving for work" defiance
+- Mood: ultimate cozy blanket sanctuary, complete peaceful refusal to step into the working world
 
 [DECORATION]
-- Decoration cue: melting cartoon liquid drops dripping down, tiny puddles, and fatigue sweat drops
+- Decoration cue: cozy blanket swirl roll patterns, floating "Zzz" bubbles, and tiny refusal sweat drops
 

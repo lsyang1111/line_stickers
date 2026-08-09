@@ -40,10 +40,10 @@
 - Sticker text: 快下班惹
 - Visible text rule: render only this text: "快下班惹" - no other words, labels, watermarks, or role markers anywhere.
 - Text style: bold rounded sans-serif, high contrast, placed top or bottom without covering any face; reproduce CJK characters stroke-accurately.
-- Staging: both cats are in an extreme low crouched "sprinter's starting block stance / cheetah pouncing posture" (起跑架勢 / 獵豹蓄勢待發), rear ends raised high, claws digging into the floor kicking up smoke, pupils dilated into giant black circles staring intensely at the door/punch clock ready to bolt at 5:59:59 with supersonic speed
-- Expression: hyper-intense predatory lock-on stare, giant dilated round pupils, twitching whiskers with intense excited anticipation to sprint out of the office
-- Mood: 5:59:59 countdown frenzy, ready to blast off home at the speed of light
+- Staging: the two cat bodies sit at their office desks completely drained with blank hollow lifeless eyes (肉體空殼假裝上班), but floating up from their heads into the air are two happy, glowing semi-transparent cat spirits / ghosts with huge joyful grins holding tiny backpacks / boba milk tea cups, already flying out the door towards home (靈魂出竅只剩空殼)
+- Expression: physical body has a completely blank empty stare, while the floating spirit cat has an ecstatic joyful grin celebrating early liberation
+- Mood: physical body trapped at desk, soul already off-work and home
 
 [DECORATION]
-- Decoration cue: burnout tire smoke / floor dust clouds around back paws, speed focus lines, and tiny impatient sparks
+- Decoration cue: soft glowing ghostly soul trails, tiny boba milk tea cup / backpack icon held by the flying soul, and happy sparkle aura
 
